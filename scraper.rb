@@ -1,3 +1,4 @@
+require 'scraperwiki'
 # http://www.ibm.com/developerworks/opensource/library/os-dataminingrubytwitter/index.html
 
 # http://rdoc.info/gems/twitter/Twitter/API/Search#search-instance_method
